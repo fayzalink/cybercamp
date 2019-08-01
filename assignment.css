@@ -1,0 +1,7 @@
+body{
+    background-color:indigo;
+}
+p{
+    border:1px solid blue; 
+    padding: 1em;
+}
